@@ -1,1 +1,3 @@
-# cse445_final_assignment
+## cse445_final_assignment
+
+Chronic kidney disease (CKD) is a serious health condition that may result in multifaceted kidney related issues affecting kidney structure and function. CKD is identified as a global public health concern. Unfortunately, the symptoms of CKD do not get manifested during its early stage. In this work, we have used machine learning approaches to reliably detecting CKD. We have applied different machine learning classifiers to detect Chronic Kidney Disease using a publicly available data set. Empirical results indicate that the Random Forest offers better prediction in predicting chronic kidney disease.
