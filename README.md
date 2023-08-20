@@ -30,7 +30,7 @@ The effectiveness of the implemented algorithms is evaluated through various met
 
 - ROC AUC Curve
 - K Fold Cross Validation
-- Accuracy, Precision, Recall, F-measure
+- Accuracy, Precision, Recall, F1-measure
 - ROC (Receiver Operating Characteristic) Curve
 
 ## Installation
@@ -39,7 +39,7 @@ To set up the project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   $ git clone https://github.com/your-username/heart-disease-detection.git
+   $ git clone https://github.com/Zeeshan-jamal/Heart-Disease-Detection-using-ML.git
    $ cd heart-disease-detection
 
 
